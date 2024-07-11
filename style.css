@@ -1,0 +1,46 @@
+header{
+
+    max-width: 1620px;
+    height: 670px;
+    margin: 0 auto;
+    background-image: url('./assets/hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+       
+     
+     
+}
+
+.head{
+    max-width: 448px;
+    height: 264px;
+    margin: 0 auto;
+   text-align: center;
+   padding: 200px;
+    
+}
+
+.head h1{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.head h3{
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+}
+.head p{
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+}
+
+ button{
+    background-color: #52C303;
+    padding: 12px;
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
