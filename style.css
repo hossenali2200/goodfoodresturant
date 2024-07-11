@@ -44,3 +44,18 @@ header{
     color: white;
     border-radius: 8px;
 }
+
+main{
+    max-width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card-content{
+    margin-top: 80px;
+}
+
+.cards{
+    display: flex;
+    gap: 6px;
+}
