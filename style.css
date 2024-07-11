@@ -59,3 +59,23 @@ main{
     display: flex;
     gap: 6px;
 }
+.about{
+    display: flex;
+    margin-top: 70px;
+}
+
+.left{
+    width: 600px;
+    height: 450px;
+}
+
+.right{
+     padding: 80px;
+    
+}
+
+h5{
+    border: 1px solid rgb(166, 164, 164);
+    padding: 8px;
+    font-size: 25px;
+}
